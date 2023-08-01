@@ -15,7 +15,7 @@ History: Written by Tim Mattson, 11/99.
 */
 #include <stdio.h>
 #include <omp.h>
-#define NUM_THREADS 2
+#define NUM_THREADS 1000
 
 static long num_steps = 100000000;
 double step;
