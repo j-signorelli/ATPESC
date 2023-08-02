@@ -1,4 +1,4 @@
-# ATPESC
+# ATPESC OMP
 
 Materials for the OpenMP lecture at the ATPESC.  There two 
 directories.
